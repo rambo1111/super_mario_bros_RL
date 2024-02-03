@@ -1,0 +1,6 @@
+gym==0.21.0
+stable_baselines[extra]==1.16.0
+setuptools==65.5.0
+wheel<=0.40.0
+nes-py
+gym-super-mario-bros==7.3.0
